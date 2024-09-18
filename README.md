@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 😃 I'm Martin Camara
-- 🇫🇷 A french student in informatic
+- 🇫🇷 A french programing student
 - 🇪🇸 Currently in 4th year at Epitech Barcelona
 - 💡 Where I'm learning IoT
 - 👨🏽‍💻 I'm working on several projets such as a video game called "Back to Stone" or my portfolio
