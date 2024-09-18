@@ -2,8 +2,8 @@
 - 😃 I'm Martin Camara
 - 🇫🇷 A french programing student
 - 🇪🇸 Currently in 4th year at Epitech Barcelona
-- 💡 Where I'm learning IoT
-- 👨🏽‍💻 I'm working on several projets such as a video game called "Back to Stone" or my portfolio
+- 💡 Where I'm learning IoT to get a certificate
+- 👨🏽‍💻 I'm working on several projets such as a video game and my portfolio
 
 ## To reach me 📲
   - 📬 martin.camara@epitech.eu
