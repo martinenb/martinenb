@@ -1,26 +1,10 @@
 ## Hi there 👋
+- 😃 I'm Martin Camara
+- 🇫🇷 A french student in informatic
+- 🇪🇸 Currently in 4th year at Epitech Barcelona
+- 💡 Where I'm learning IoT
+- 👨🏽‍💻 I'm working on several projets such as a video game called "Back to Stone" or my portfolio
 
-<!--
-**mcamara54/mcamara54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-😃 I'm Martin Camara
-🇫🇷 A french student in informatic
-🇪🇸 Currently in 4th year at Epitech Barcelona
-💡 Where I'm learning IoT
-👨🏽‍💻 I'm working on several projets such as a video game called "Back to Stone" or my portfolio
-
-To reach me:
-  📬 martin.camara@epitech.eu
-  📞 +33 6.69.56.70.60
+## To reach me 📲
+  - 📬 martin.camara@epitech.eu
+  - 📞 +33 6.69.56.70.60
