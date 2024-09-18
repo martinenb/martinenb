@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 😃 I'm Martin Camara
-- 🇫🇷 A french programing student
+- 🇫🇷 A french programming student
 - 🇪🇸 Currently in 4th year at Epitech Barcelona
 - 💡 Where I'm learning IoT to get a certificate
 - 👨🏽‍💻 I'm working on several projets such as a video game and my portfolio
