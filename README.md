@@ -8,4 +8,3 @@
 
 ## To reach me 📲
 - 📬 martin.camara@epitech.eu
-- 📞 +33 6.69.56.70.60
